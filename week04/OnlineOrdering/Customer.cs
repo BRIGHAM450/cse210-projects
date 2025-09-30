@@ -1,5 +1,5 @@
 using System;
-
+// CLASS CUSTOMER
 public class Customer
 {
     private string _name;
